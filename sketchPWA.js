@@ -31,8 +31,8 @@ function gotResults(error, results) {
     console.error(error); // muestra el error encontrado 
     return; // retorna 
   }
-  console.log(results); // muestra los resultados en formato ARRAY 
-  console.table(results); // muestra resultados en formato de tabla 
+  //console.log(results); // muestra los resultados en formato ARRAY 
+  //console.table(results); // muestra resultados en formato de tabla 
   
 
   // se almacenan los resultados obtenidos en las variables 
