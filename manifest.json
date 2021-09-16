@@ -6,12 +6,12 @@
   "theme_color": "#000000",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "https://felipecarosella1.github.io/PWA_/",
+  "start_url": "./?utm_source=web_app_manifest",
   "scope": "./",
   "lang": "en-US",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "./icon.png",
       "sizes": "144x144",
       "type": "image/png"
     }

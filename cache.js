@@ -1,8 +1,9 @@
 const CACHE_NAME = 'cache de identificador',
   urlsToCache = [
-  'sw.js',
-  'sketchPWA.js',
-  'icon.png'
+  './',
+  './sw.js',
+  './sketchPWA.js',
+  './icon.png'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
