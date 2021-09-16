@@ -6,7 +6,7 @@
   "theme_color": "#000000",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "./?utm_source=web_app_manifest",
+  "start_url": "https://felipecarosella1.github.io/PWA_/",
   "scope": "./",
   "lang": "en-US",
   "icons": [
