@@ -12,6 +12,11 @@ function preload() {
 
 function setup() {
   createCanvas(320,260); // se crea el lienzo de trabajo de 320x260
+  var main = document.querySelector("main");
+  main.style.height="100vh";
+  main.style.display="flex";
+  main.style.alignItems="center";
+  main.style.justifyContent="center";
   // se crea el video capturado y se lo guarda en la avriable video
   video = createCapture(VIDEO);
   video.hide(); // se oculta el video 
